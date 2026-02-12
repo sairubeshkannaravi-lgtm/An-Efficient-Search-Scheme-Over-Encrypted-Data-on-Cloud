@@ -1,7 +1,5 @@
 
 # 🔐 An Efficient Search Scheme Over Encrypted Data on Cloud  
-### **Author: Rubeshkanna Ravichandran — Aspiring Data Analyst**
-
 ---
 
 ## 📌 **Project Overview**
